@@ -1,7 +1,7 @@
 # Nice to meet you
+As a blockchain developer, I write smart contrat, develop token projects and launch NFTs, trade with technique.
 
-
-### Blockchain I work with
+## Blockchain I work with
 
 <table align="center">
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-### Main Languages of everyday use
+## Main Languages of everyday use
 
 <br />
 
@@ -81,7 +81,7 @@
   <!-- network -->
 </table>
 
-### My daily life is connected with
+## My daily life is connected with
 
 <table align="center">
 <tr>
@@ -110,10 +110,6 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -128,7 +124,7 @@
   </tr>
   </table>
 
-### Project related to this
+## Project related to this
 
 <table align="center">
   <tr>
