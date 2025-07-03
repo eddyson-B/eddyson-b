@@ -124,7 +124,7 @@ As a blockchain developer, I write smart contrat, develop token projects and lau
   </tr>
   </table>
 
-## Project related to this
+## Project I worked with 
 
 <table align="center">
   <tr>
