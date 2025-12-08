@@ -35,15 +35,7 @@ As a blockchain developer, I write smart contrat, develop token projects and lau
     <br>Ton
   </td>
 </tr>
-</table>
-
-## Main Languages of everyday use
-
-<br />
-
-<table align="center">
-<!-- skill -->
-  <tr>
+<tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
@@ -78,12 +70,6 @@ As a blockchain developer, I write smart contrat, develop token projects and lau
     </td>
 
   </tr>
-  <!-- network -->
-</table>
-
-## My daily life is connected with
-
-<table align="center">
 <tr>
 <td align="center" width="90">
       <img src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="45" height="45" alt="Laravel" />
@@ -122,11 +108,6 @@ As a blockchain developer, I write smart contrat, develop token projects and lau
       <br>MySQL
     </td>
   </tr>
-  </table>
-
-## Project I worked with 
-
-<table align="center">
   <tr>
     <td align="center" width="90">
       <img src="./icons/raydium.webp" width="45" height="45" alt="DeepSeek" />
