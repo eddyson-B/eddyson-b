@@ -1,4 +1,4 @@
-### I work in crypto as a smart contract and web3 developer, build many blockchain projects (primarily Solana DeFi).
+### I work in crypto as a smart contract and web3 developer, build blockchain DeFi projects.
 
 <table align="center">
 
