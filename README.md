@@ -12,7 +12,7 @@
       <br>Rust
     </td>
 <td align="center" width="90">
-      <img src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="45" height="45" alt="Laravel" />
+      <img src="https://camo.githubusercontent.com/e44c3339db2a8b56dbbfb804fdb1f076e73046909a666e1a4522acf9e41737d7/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="45" height="45" alt="Anchor" />
       <br>Anchor
     </td>
     <td align="center" width="90">
